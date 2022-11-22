@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "738803069313",
+    "firebase_url": "https://connectingfirebasedbtopy-a2562-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "connectingfirebasedbtopy-a2562",
+    "storage_bucket": "connectingfirebasedbtopy-a2562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738803069313:android:0fe7119b991b7887d7b880",
+        "android_client_info": {
+          "package_name": "com.cathai.cuhk.cathai_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738803069313-8628qoe7rl2a4cub7da4o31q74ar5khm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCswOgLNNmMiUwHuZKAiGT0YouYsz7Y97g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738803069313-8628qoe7rl2a4cub7da4o31q74ar5khm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738803069313-fmmqtbgl1g3qetkmni1ap12gn5vu4kpj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cathayHackathon22"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738803069313:android:4f491ab358cd2d75d7b880",
+        "android_client_info": {
+          "package_name": "com.example.cathay_hackathon_22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738803069313-8628qoe7rl2a4cub7da4o31q74ar5khm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCswOgLNNmMiUwHuZKAiGT0YouYsz7Y97g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738803069313-8628qoe7rl2a4cub7da4o31q74ar5khm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738803069313-fmmqtbgl1g3qetkmni1ap12gn5vu4kpj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cathayHackathon22"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
